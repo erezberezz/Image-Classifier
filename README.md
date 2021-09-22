@@ -7,8 +7,10 @@ Requirements:
 
 How to use our program:
 We first need to select an input folder that contains the photos we wish to sort, and an output folder in which we sort our photos to
-![Alt Text](https://media.giphy.com/media/vFKqnC![ezgif com-gif-maker](https://user-images.githubusercontent.com/88950513/134408823-dc18ece5-f94c-4132-9815-86e88f4ef937.gif)
 
+![](n![algo visual quick sort](https://user-images.githubuse![ezgif com-gif-maker](https://user-images.githubusercontent.com/88950513/134409027-1ac84893-d9c3-420a-a9cb-3b8c5a1441a4.gif)
+rcontent.com/43711624/127748580-321b3505-7b33-488d-beb6-dc7e4381798a.gif)
+ame-of-giphy.gif)
 
 While its running we can see our photos being sorted
 # GIF 2 תיקיות נוצרות
