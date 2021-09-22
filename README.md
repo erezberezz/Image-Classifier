@@ -1,5 +1,5 @@
 # ImageClassifier
-This project was created jointly by me and a fellow friend in my Electrical Engineering studies Ofek Sharabi (https://github.com/ofek9993)
+This project was created jointly by me and a fellow friend in my Electrical Engineering degree Ofek Sharabi (https://github.com/ofek9993)
 This classifer uses a neural network trained on the COCO dataset in order to sort photos into common photography generes.
 
 # Libraeris used: 
