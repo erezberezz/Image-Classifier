@@ -7,7 +7,7 @@ Torchvision, Torch, Math, Random, Numpy, Matplotlib, cv2, os, Shutil, Tkinter, T
 
 Python version 3.8
 
-# How to use our program:
+# Running our program:
 
 
 We first need to select an input folder that contains the photos we wish to sort, and an output folder in which we sort our photos to
