@@ -7,8 +7,7 @@ Requirements:
 
 How to use our program:
 We first need to select an input folder that contains the photos we wish to sort, and an output folder in which we sort our photos to
-#  ![Alt Text](https://media.giphy.com/media/vFKqnC![ezgif com-gif-maker](https://user-images.githubusercontent.com/88950513/134408823-dc18ece5-f94c-4132-9815-86e88f4ef937.gif)
-dLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnC![ezgif com-gif-maker](https://user-images.githubusercontent.com/88950513/134408823-dc18ece5-f94c-4132-9815-86e88f4ef937.gif)
 
 
 While its running we can see our photos being sorted
