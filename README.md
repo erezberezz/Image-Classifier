@@ -1,6 +1,6 @@
 # ImageClassifier
 This project was created jointly by me and a fellow friend in my Electrical Engineering degree Ofek Sharabi (https://github.com/ofek9993)
-This classifer uses a neural network trained on the COCO dataset in order to sort photos into common photography generes.
+This classifier uses a neural network trained on the COCO dataset in order to sort photos into common photography genres.
 
 # Libraeris used: 
 Torchvision, Torch, Math, Random, Numpy, Matplotlib, cv2, os, Shutil, Tkinter, Time
